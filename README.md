@@ -56,7 +56,7 @@ I love working with the latest technologies to deliver high-quality solutions. H
 Explore some of my notable projects:
 
 1. [Blog App API's](https://github.com/manauwarcode/blog-app-apis/tree/master): Backend Blog Application Using Spring Boot and Spring Security.
-2. [Email Service API](link-to-repo): Custom Email Service Using Spring Boot.
+2. [Email Service API](https://github.com/manauwarcode/custom-email-using-spring-boot): Custom Email Service Using Spring Boot.
 
 
 
