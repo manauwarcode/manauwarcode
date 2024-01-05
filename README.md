@@ -64,7 +64,7 @@ Explore some of my notable projects:
 
 - LinkedIn: [Manauwar Ansari](https://www.linkedin.com/in/manauwar-ansari/)
 - Instagram: [Manauwar Ansari](https://www.instagram.com/manauwar__ansari/)
-- Email: manauwar.ansari@example.com
+- Email: manauwar.aws@gmail.com
 
 ### 🚀 Let's Collaborate!
 
